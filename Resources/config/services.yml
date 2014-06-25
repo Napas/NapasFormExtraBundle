@@ -3,3 +3,8 @@ services:
         class: Napas\FormExtraBundle\Form\UsStatesType
         tags:
             - { name: form.type, alias: us_states }
+
+    napas_extra_form.twig.states_extension:
+        class: Napas\FormExtraBundle\Twig\StatesExtension
+        tags:
+            - { name: twig.extension }
