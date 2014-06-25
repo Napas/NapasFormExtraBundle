@@ -18,7 +18,7 @@ class UsStatesType extends AbstractType
      */
     public function getName()
     {
-        return 'us-states';
+        return 'us_sstates';
     }
 
     /**

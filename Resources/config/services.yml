@@ -2,4 +2,4 @@ services:
     napas_extra_form.form.type.us_states:
         class: Napas\FormExtraBundle\Form\UsStatesType
         tags:
-            - { name: form.type, alias: us-states }
+            - { name: form.type, alias: us_states }
