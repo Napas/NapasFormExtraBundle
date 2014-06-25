@@ -15,7 +15,7 @@
         "MIT"
     ],
     "require": {
-        "symfony/symfony": ">=2.1.*"
+        "symfony/symfony": ">=2.1"
     },
     "autoload": {
         "psr-0": {
