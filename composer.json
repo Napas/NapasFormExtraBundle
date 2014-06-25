@@ -1,0 +1,31 @@
+{
+    "name": "napas/formextrabundle",
+    "description": "Symfony2 extra form field types",
+    "type": "symfony-bundle",
+    "authors": [
+        {
+            "name": "Napas",
+            "email": "napas@napas.lt"
+        }
+    ],
+    "keywords": [
+        "form", "form extra", "us states", "usa states"
+    ],
+    "license": [
+        "MIT"
+    ],
+    "require": {
+        "symfony/symfony": "2.1.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Napas\\FormExtraBundle": ""
+        }
+    },
+    "target-dir": "Napas/FormExtraBundle",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "master"
+        }
+    }
+}
