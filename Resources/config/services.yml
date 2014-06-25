@@ -1,7 +1,5 @@
-parameters:
-#    napas_form_extra.example.class: Napas\FormExtraBundle\Example
-
 services:
-#    napas_form_extra.example:
-#        class: %napas_form_extra.example.class%
-#        arguments: [@service_id, "plain_value", %parameter%]
+    napas_extra_form.form.type.us_states:
+        class: Napas\FormExtraBundle\Form\UsStatesType
+        tags:
+            - { name: form.type, alias: us-states }
