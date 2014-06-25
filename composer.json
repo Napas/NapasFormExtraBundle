@@ -1,5 +1,5 @@
 {
-    "name": "napas/formextrabundle",
+    "name": "napas/form-extra-bundle",
     "description": "Symfony2 extra form field types",
     "type": "symfony-bundle",
     "authors": [
