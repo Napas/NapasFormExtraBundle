@@ -1,0 +1,7 @@
+parameters:
+#    napas_form_extra.example.class: Napas\FormExtraBundle\Example
+
+services:
+#    napas_form_extra.example:
+#        class: %napas_form_extra.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
