@@ -27,7 +27,7 @@ Done!
 
 # Field types
 
-##US Stated choice field
+##US States choice field
 
 ### Usage
 ```
